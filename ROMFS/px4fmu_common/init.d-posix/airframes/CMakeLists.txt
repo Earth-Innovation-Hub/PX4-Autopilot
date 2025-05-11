@@ -92,6 +92,7 @@ px4_add_romfs_files(
 	4019_gz_x500_gimbal
 	4020_gz_tiltrotor
 	4021_gz_x500_flow
+	4022_gz_x500_depth_mono
 
 	6011_gazebo-classic_typhoon_h480
 	6011_gazebo-classic_typhoon_h480.post
@@ -117,4 +118,5 @@ px4_add_romfs_files(
 	71002_gz_spacecraft_2d
 
 	# [22000, 22999] Reserve for custom models
+	4100_gz_dreams_asv
 )
